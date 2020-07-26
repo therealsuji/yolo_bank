@@ -1,0 +1,1 @@
+enum BottomNav { HOME, CHART }
